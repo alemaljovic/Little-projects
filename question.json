@@ -1,0 +1,120 @@
+[
+   
+	{
+        "type": "fill_in_the_blank",
+        "q": "In programming, a ________ is a named space for storing data that can be changed during the execution of a program.",
+        "an": "variable",
+        "difficulty": "starter"
+    },
+    {
+        "type": "fill_in_the_blank",
+        "q": "HTML stands for Hypertext ________ Language.",
+        "an": "Markup",
+        "difficulty": "starter"
+    },
+    {
+        "type": "fill_in_the_blank",
+        "q": "Python uses the ________ keyword to create a function that can be called with a variable number of arguments.",
+        "an": "def",
+        "difficulty": "starter"
+    },
+    {
+        "type": "fill_in_the_blank",
+        "q": "Java is known for its 'Write Once, ________ Anywhere' principle.",
+        "an": "Run",
+        "difficulty": "starter"
+    },
+    
+	{
+        "type": "fill_in_the_blank",
+        "q": "In object-oriented programming, ________ is the ability of a class to have more than one method with the same name.",
+        "an": "polymorphism",
+        "difficulty": "advanced"
+    },
+    {
+        "type": "fill_in_the_blank",
+        "q": "Git is a distributed version control system that was created by ________.",
+        "an": "Linus Torvalds",
+        "difficulty": "advanced"
+    },
+    {
+        "type": "fill_in_the_blank",
+        "q": "The CAP theorem in distributed databases states that it is impossible to achieve Consistency, Availability, and ________ simultaneously.",
+        "an": "Partition tolerance",
+        "difficulty": "advanced"
+    },
+    {
+        "type": "fill_in_the_blank",
+        "q": "Big O notation is used to describe the efficiency or complexity of an ________.",
+        "an": "algorithm",
+        "difficulty": "advanced"
+    },
+	{
+        "type": "true_false",
+        "q": "Python is primarily used for front-end web development.",
+        "an": "false",
+        "difficulty": "starter"
+    },
+    {
+        "type": "true_false",
+        "q": "CSS stands for Cascading Style Sheet.",
+        "an": "true",
+        "difficulty": "starter"
+    },
+    {
+        "type": "true_false",
+        "q": "Java is an interpreted language.",
+        "an": "false",
+        "difficulty": "starter"
+    },
+    {
+        "type": "true_false",
+        "q": "HTML is a programming language.",
+        "an": "false",
+        "difficulty": "starter"
+    },
+    {
+        "type": "true_false",
+        "q": "Python is a compiled language.",
+        "an": "false",
+        "difficulty": "starter"
+    },
+    {
+        "type": "true_false",
+        "q": "HTML stands for HyperText Markup Language.",
+        "an": "true",
+        "difficulty": "advanced"
+    },
+    {
+        "type": "true_false",
+        "q": "JavaScript is a server-side programming language.",
+        "an": "false",
+        "difficulty": "advanced"
+    },
+    {
+        "type": "true_false",
+        "q": "Python uses braces ({}) to define blocks of code.",
+        "an": "false",
+        "difficulty": "advanced"
+    },
+    {
+        "type": "true_false",
+        "q": "Git is a distributed version control system.",
+        "an": "true",
+        "difficulty": "advanced"
+    },
+    {
+        "type": "true_false",
+        "q": "Object-oriented programming allows for multiple inheritance in Python.",
+        "an": "true",
+        "difficulty": "advanced"
+    },
+    {
+        "type": "true_false",
+        "q": "SQL is a programming language used for creating and modifying databases.",
+        "an": "true",
+        "difficulty": "advanced"
+    }
+]
+
+
