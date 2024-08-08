@@ -41,7 +41,7 @@ def check_answer(question_dict, user_answer, elapsed_time, time_limit):
 
 difficulty_level = input("Choose difficulty level (starter/advanced): ").lower()
 
-#TO RUN THIS CODE IN TERMINAL WRITE: python 200302021_Alem_homeowork_2.py
+#TO RUN THIS CODE IN TERMINAL WRITE: python 
 with open("question.json", "r", encoding='utf-8') as qa:
     question_set = qa.read()
     questions_list = json.loads(question_set)
